@@ -1,14 +1,10 @@
-.heading1 nav{
-    height: 20vmin;
-    width: 100vw;
-}
 img{
     height: 3vmin;
     width: 3vmin;
 }
 #logo{
-    height: 3vmin;
-    width: 3vmin;
+    height: 20vh;
+    width: 50vw;
 }
 nav ul li{
     display: inline;
