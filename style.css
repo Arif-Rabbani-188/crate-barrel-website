@@ -1,7 +1,16 @@
-*{
-    margin: 0px;
-    padding: 0px;
+.heading1 nav{
+    height: 20vmin;
+    width: 100vw;
 }
-.heaing1{
+img{
+    height: 3vmin;
+    width: 3vmin;
+}
+#logo{
+    height: 3vmin;
+    width: 3vmin;
+}
+nav ul li{
     display: inline;
+    overflow: hidden;
 }
